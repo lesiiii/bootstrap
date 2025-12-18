@@ -1,3 +1,11 @@
 .container {
     border: 1px solid red;
 }
+
+.col {
+    border: 1px solid blue;
+}
+
+.bg-warning {
+    background-color: blueviolet;
+}
